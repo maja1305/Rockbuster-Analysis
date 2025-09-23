@@ -11,4 +11,5 @@ This data analysis aims to provide insights into customer behavior to help manag
 ## Data & Tools
 For this project, the Rockbuster relational database was analyzed using PostgreSQL as the database management system. The dataset contains information on the company’s film inventory, customers, payments, staff, stores, rental history, and more.
 Data was managed through pgAdmin 4, queries were executed in PostgreSQL, and insights were visualized using Tableau Public.
+
 View visualizations here: [Visualizations on Tableau Public](https://public.tableau.com/app/profile/maja.u/viz/RockbusterStealthLLC_17562229657420/Story1)
